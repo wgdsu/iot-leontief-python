@@ -9,7 +9,7 @@ Those wishing to familiarise themselves with input output analysis are directed 
 1. Clone the repository:
 
 ```
-git clone 
+git clone https://github.com/wgdsu/iot-leontief-python.git
 ```
 
 2. Install dependencies:
