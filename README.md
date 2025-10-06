@@ -54,7 +54,7 @@ Your data needs to be formatted with:
 
 The components and their positions are labelled in the diagram below and an example is provided in the file `data/iot_example.csv`.
 
-![Input Output Table Example](imgs\IOTemplate.png)
+![Input Output Table Example](imgs/IOTemplate.png)
 
 The `data/iot_example.csv` shows an example of this formatting.
 
